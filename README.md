@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, JavaScript and MongoDB**
 
-- 👨‍💻 All of my projects are available at [mlechuga.netlify.app](mlechuga.netlify.app)
+- 👨‍💻 All of my projects are available at [mlechuga.netlify.app](http://mlechuga.netlify.app)
 
 - 📫 How to reach me **mauriciolechuga@gmail.com**
 
